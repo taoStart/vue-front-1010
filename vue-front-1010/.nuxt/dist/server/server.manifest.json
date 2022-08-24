@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/course/_id.js": "pages/course/_id.js",
+    "pages/course/index.js": "pages/course/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/login.js": "pages/login.js",
+    "pages/register.js": "pages/register.js",
+    "pages/teacher/_id.js": "pages/teacher/_id.js",
+    "pages/teacher/index.js": "pages/teacher/index.js",
+    "pages/videoplay/_vid.js": "pages/videoplay/_vid.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/course/_id.js": "pages/course/_id.js.map",
+    "pages/course/index.js": "pages/course/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/login.js": "pages/login.js.map",
+    "pages/register.js": "pages/register.js.map",
+    "pages/teacher/_id.js": "pages/teacher/_id.js.map",
+    "pages/teacher/index.js": "pages/teacher/index.js.map",
+    "pages/videoplay/_vid.js": "pages/videoplay/_vid.js.map",
+    "server.js": "server.js.map"
+  }
+}
